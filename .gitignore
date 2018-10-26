@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# build output
+dist/
+
+# Log Files
+*.log
+*.idea
+git_backup/
